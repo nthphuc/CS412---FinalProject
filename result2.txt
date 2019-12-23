@@ -1,0 +1,2 @@
+boat bus car carriage cat elephant hovercraft motorcycle semi 
+airplane boat crow dolphin jetski motorcycle penguin 
